@@ -21,7 +21,7 @@
     "framer-motion": "^12.4.7",
     "lib-jitsi-meet": "^1.0.6",
     "luxon": "^3.6.0",
-    "next": "^15.2.4",
+    "next": "15.2.8",
     "next-auth": "^4.24.11",
     "react": "^19.0.0",
     "react-datepicker": "^8.1.0",
